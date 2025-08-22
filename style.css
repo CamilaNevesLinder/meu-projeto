@@ -1,0 +1,14 @@
+body{
+    background-color: #f1b0b9;
+    color: #f5f5eb;
+}
+ 
+strong{
+    color:#cf6879;
+}
+
+
+a {
+  display: block;     /* faz o link ficar numa linha só */
+  margin: 10px 0;     /* espaço em cima e embaixo */
+}
